@@ -29,6 +29,8 @@ function App() {
           }} >
           <Dog />
         </Canvas>
+        <section id='section-1' ></section>
+        <section id='section-2' ></section>
       </main>
     </>
   )
